@@ -1,3 +1,20 @@
+### Firstly, I'm not your fucking mom. Use this responsibly.
+
+### Enter the info as expected by the application. There isn't error checking for the drop down menu's. Don't be fucking stupid and try and click JTAG on image type and select ### Trinity motherboard.
+
+### Once you get your patches file, replace it in 17559/bin of XeBuild. Rebuild your nand then run the .xex in the KeBlowFuses folder. You need the Media folder in the same ### ### directory as the xex.
+
+### This *ONLY* works on 17559 kernel. Want to port it to another? Get all the proper addresses.
+
+### And for the LOVE of GOD. If someone sends you a nand and tells you to flash it then run an xex, please fucking don't.
+
+### This release is meant to help people that want to move CPU's from one console that was jtaggable to another.
+### I.E moving a falcon cpu with a CB of 4 to a jasper motherboard that needs CB 5.
+
+### Or if you wanna make a JTAG from a zero fuse cpu, that works too.
+
+### Again, I'm not your fucking mom. Don't use this to brick people. I don't want to regret it. Thanks.
+
 # KeBlowFusePatchGenerator
 
 ### Features
