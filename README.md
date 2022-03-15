@@ -15,7 +15,7 @@
 
 ### Again, I'm not your fucking mom. Don't use this to brick people. I don't want to regret it. Thanks.
 
-# KeBlowFusePatchGenerator
+# KeBlowFusesPatchGenerator
 
 ### Features
 
