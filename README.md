@@ -21,7 +21,7 @@ Fuse set example:
     | Fuseset 01:  | 0f0f0f0f0f0f0f0f  Devkit does not matter slim or phat
     | Fuseset 02:  | 0000000000000000  CB FUSE COUNT. LEAVE BLANK TO RUN ANY
     | Fuseset 02:  | 000F000000000000  CB SEQ 4. (Last JTAG CB for Falcon/Zephyr/Xenon)
-	  | Fuseset 02:  | 0000F00000000000  CB SEQ 5. (Last JTAG CB for jasper)
+    | Fuseset 02:  | 0000F00000000000  CB SEQ 5. (Last JTAG CB for jasper)
 	  | Fuseset 02:  | 000000F000000000  CB SEQ 7. (JTAG PATCHED. RGH1)
 	  | Fuseset 02:  | 00000000000F0000  CB SEQ 12. (RGH1 Patched, RGH1.2/2 only)
 	  | Fuseset 02:  | 000000000000FFFF  CB SEQ 13-16. (Don't fucking do this.) You'll need to glitch CB Fusecheck to boot. (RJTOP)
