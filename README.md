@@ -22,15 +22,15 @@ Fuse set example:
     | Fuseset 02:  | 0000000000000000  CB FUSE COUNT. LEAVE BLANK TO RUN ANY
     | Fuseset 02:  | 000F000000000000  CB SEQ 4. (Last JTAG CB for Falcon/Zephyr/Xenon)
     | Fuseset 02:  | 0000F00000000000  CB SEQ 5. (Last JTAG CB for jasper)
-	  | Fuseset 02:  | 000000F000000000  CB SEQ 7. (JTAG PATCHED. RGH1)
-	  | Fuseset 02:  | 00000000000F0000  CB SEQ 12. (RGH1 Patched, RGH1.2/2 only)
-	  | Fuseset 02:  | 000000000000FFFF  CB SEQ 13-16. (Don't fucking do this.) You'll need to glitch CB Fusecheck to boot. (RJTOP)
-	  | Fuseset 03:  | eed5b3ae123af5c0  CPU KEY. FIRST HALF
+    | Fuseset 02:  | 000000F000000000  CB SEQ 7. (JTAG PATCHED. RGH1)
+    | Fuseset 02:  | 00000000000F0000  CB SEQ 12. (RGH1 Patched, RGH1.2/2 only)
+    | Fuseset 02:  | 000000000000FFFF  CB SEQ 13-16. (Don't fucking do this.) You'll need to glitch CB Fusecheck to boot. (RJTOP)
+    | Fuseset 03:  | eed5b3ae123af5c0  CPU KEY. FIRST HALF
     | Fuseset 04:  | eed5b3ae123af5c0  CPU KEY. FIRST HALF
-	  | Fuseset 05:  | 1602d8ae9d2087e1  CPU KEY. SECOND HALF
+    | Fuseset 05:  | 1602d8ae9d2087e1  CPU KEY. SECOND HALF
     | Fuseset 06:  | 1602d8ae9d2087e1  CPU KEY. SECOND HALF
-	  | Fuseset 07:  | fffff00000000000  LDV Value. In this example it is 5. Count the F's
+    | Fuseset 07:  | fffff00000000000  LDV Value. In this example it is 5. Count the F's
     | Fuseset 08:  | 0000000000000000  Continued LDV count to end
-	  | Fuseset 09:  | 0000000000000000
+    | Fuseset 09:  | 0000000000000000
     | Fuseset 10:  | 0000000000000000
-	  | Fuseset 11:  | 0000000000000000
+    | Fuseset 11:  | 0000000000000000
