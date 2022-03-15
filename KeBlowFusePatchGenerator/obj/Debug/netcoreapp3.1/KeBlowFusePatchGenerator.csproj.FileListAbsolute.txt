@@ -1,0 +1,16 @@
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.exe
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.deps.json
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.runtimeconfig.json
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.runtimeconfig.dev.json
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.dll
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\bin\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.pdb
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.Form1.resources
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.csproj.GenerateResource.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.AssemblyInfoInputs.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.AssemblyInfo.cs
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.dll
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.pdb
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.genruntimeconfig.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.Resource1.resources
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\netcoreapp3.1\KeBlowFusePatchGenerator.csprojAssemblyReference.cache

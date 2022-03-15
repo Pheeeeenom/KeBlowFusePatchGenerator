@@ -1,0 +1,7 @@
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.csproj.AssemblyReference.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.Form1.resources
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.csproj.GenerateResource.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.AssemblyInfoInputs.cache
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.AssemblyInfo.cs
+C:\Users\Mena\source\repos\KeBlowFusePatchGenerator\KeBlowFusePatchGenerator\obj\Debug\net6.0-windows\KeBlowFusePatchGenerator.csproj.CoreCompileInputs.cache
