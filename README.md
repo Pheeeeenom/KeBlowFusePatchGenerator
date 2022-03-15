@@ -2,7 +2,7 @@
 
 ### Enter the info as expected by the application. There isn't error checking for the drop down menu's. Don't be fucking stupid and try and click JTAG on image type and select Trinity motherboard.
 
-### Once you get your patches file, replace it in 17559/bin of XeBuild. Rebuild your nand then run the .xex in the KeBlowFuses folder. You need the Media folder in the same ### ### directory as the xex.
+### Once you get your patches file, replace it in 17559/bin of XeBuild. Rebuild your nand then run the .xex in the KeBlowFuses folder. You need the Media folder in the same directory as the xex.
 
 ### This *ONLY* works on 17559 kernel. Want to port it to another? Get all the proper addresses.
 
