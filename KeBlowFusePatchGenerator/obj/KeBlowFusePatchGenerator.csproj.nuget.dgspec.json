@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mena\\source\\repos\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {}
+    "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mena\\source\\repos\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {
+    "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mena\\source\\repos\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
         "projectName": "KeBlowFusePatchGenerator",
-        "projectPath": "C:\\Users\\Mena\\source\\repos\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
+        "projectPath": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
         "packagesPath": "C:\\Users\\Mena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mena\\source\\repos\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
