@@ -34,7 +34,7 @@ Fuse set example:
     | Fuseset 09:  | 0000000000000000
     | Fuseset 10:  | 0000000000000000
     | Fuseset 11:  | 0000000000000000
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].
