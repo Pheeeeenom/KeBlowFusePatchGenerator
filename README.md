@@ -27,8 +27,6 @@
 
 Left most bit is most significant. This is how the nibbles are interpreted. First nibble on Fuse set 00 being 0xC means 1100 in binary.
 
-You will never want to burn CB if you're trying to create a JTAG console.
-
 
 Fuse set example:
 
