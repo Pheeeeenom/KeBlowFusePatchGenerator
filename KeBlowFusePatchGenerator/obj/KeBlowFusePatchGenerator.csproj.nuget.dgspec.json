@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {}
+    "C:\\Users\\Mena\\Source\\Repos\\Pheeeeenom\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {
+    "C:\\Users\\Mena\\Source\\Repos\\Pheeeeenom\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
+        "projectUniqueName": "C:\\Users\\Mena\\Source\\Repos\\Pheeeeenom\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
         "projectName": "KeBlowFusePatchGenerator",
-        "projectPath": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
+        "projectPath": "C:\\Users\\Mena\\Source\\Repos\\Pheeeeenom\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator.csproj",
         "packagesPath": "C:\\Users\\Mena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mena\\Documents\\GitHub\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\obj\\",
+        "outputPath": "C:\\Users\\Mena\\Source\\Repos\\Pheeeeenom\\KeBlowFusePatchGenerator\\KeBlowFusePatchGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,12 +53,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.16, 3.1.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -67,7 +61,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
