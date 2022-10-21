@@ -419,7 +419,7 @@ namespace KeBlowFusePatchGenerator
                                 patchesFileName = "patches_fat.bin"; fusesPatchOffset = 0x414;
                                 break;
                             case "Glitch2":
-                                patchesFileName = "patches_g2falcon.bin"; fusesPatchOffset = 0x424;
+                                patchesFileName = "patches_g2jasper.bin"; fusesPatchOffset = 0x424;
                                 break;
                             case "Glitch2m":
                                 patchesFileName = "patches_g2mjasper.bin"; fusesPatchOffset = 0x5E0;
