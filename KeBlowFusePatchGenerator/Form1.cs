@@ -169,7 +169,7 @@ namespace KeBlowFusePatchGenerator
                                             //do nothing
                                         }
                                     }
-                                   if (result == DialogResult.OK && cb > 0 && cb <= 12)
+                                   if (result == DialogResult.Yes && cb > 0 && cb <= 12)
                                     {
                                         try
                                         {
