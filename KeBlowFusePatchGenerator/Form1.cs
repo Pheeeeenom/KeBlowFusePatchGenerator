@@ -514,6 +514,7 @@ namespace KeBlowFusePatchGenerator
         {
             try
             {
+                updseq = Int32.Parse(txtUpdateSeq.Text);
                 #region Fuse Line 00
                 for (int i = 0; i < Resource1.Fuse_Line_00.Length; i++)
                 {
